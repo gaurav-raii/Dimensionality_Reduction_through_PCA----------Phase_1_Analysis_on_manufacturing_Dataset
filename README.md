@@ -1,4 +1,4 @@
-# Phase-1-Analysis-on-manufacturing-Dataset
-* The project is based on a set of data collected from a manufacturing process, in which both in-control and out-of-control data points are present. We were asked to develop a method or a procedure to identify the data falling in the respective categories. This is amounted to a Phase I analysis. 
+# Phase-1-Analysis-for-a-industrial- forging-Process
+* The project is based on a set of forging process data collected from a manufacturing industry, in which both in-control and out-of-control data points are present. We were asked to develop a method or a procedure to identify the data falling in the respective categories. This is amounted to a Phase I analysis. 
 * Its purpose is to isolate the in-control data for estimating the in-control distribution parameters so that a monitoring scheme can be set up for future missions.So that we can have the most effective process monitoring set up for my manufacturing process.recommendations were made concerning which part of data samples are the out-of-control points and which are in control, so as to compute the in-control parameters.
 * Techniques used - Principal Component Analysis(PCA), Multivariate Data Analysis.
